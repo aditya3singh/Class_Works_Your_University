@@ -5,3 +5,6 @@ This repository contains only the HTML and CSS components of the subject.
 
 ![Screenshot (778)](https://github.com/user-attachments/assets/66dcf752-9a7c-4f9f-923a-e899dd083952)
 
+
+
+First, we need to install React and npm, then create a new React app using the command: npx create-react-app "name of the app you want to create."
